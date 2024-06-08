@@ -40,3 +40,7 @@ profile
 *.sdf
 *.opensdf
 *.suo
+
+build.sh
+emsdk/
+gl4es/
